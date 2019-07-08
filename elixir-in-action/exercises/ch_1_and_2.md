@@ -10,9 +10,10 @@
 7. What do the characters **?** and **i** indicate at the end of functions
    names? Do they affect compiled behaviour in any way?
 8. Can you explain what the pipeline operator does and why it is useful?
-9. Can a module span more than one file?
+9. Can a module span more than one file? Can you demonstrate it?
 10. How would you idiomatically format your code on the command line using **mix**
 11. What is the default value operator for a function in Elixir?
-12. Could you demonstrate using a private function in a module and with functions of your own choosing?
-13. Could you create to modules and use an **import** statement in on of those modules?
+12. Could you use a private function in a module and demonstrate that it cannot be called in another module?
+13. Could you create two modules with a function in one and use an **import** statement in the other module?
 14. Could you alias any kernel function and demonstrate it in code?
+15. What are the two attributes to document modules and functions?
