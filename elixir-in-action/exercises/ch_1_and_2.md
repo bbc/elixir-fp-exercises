@@ -27,7 +27,7 @@
     the list. Why would this be expensive on a large list?
 24. Concatenate two lists of your own choice
 25. Extract the head of a list with a Kernel function and patten matching.
-26. Create a map upto five key/pairs which starts with the key **1** and the value **one**
+26. Create a map up to five key/pairs which starts with the key **1** and the value **one**
 27. Extract the third element from the list using any manner
 28. How would you throw an **exception** if a key is not in a map?
 29. Show two ways of extracting the value of a key in a match which is an atom
@@ -35,3 +35,4 @@
 31. What's the difference between binary strings and character lists?
 32. What does a function class function mean and could you provide an example?
 33. Can you write a longhand function and its shorthand counterpart using the capture operator
+34. Give an example of where keyword lists are prevalently used?
