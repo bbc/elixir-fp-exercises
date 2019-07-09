@@ -17,3 +17,21 @@
 13. Could you create two modules with a function in one and use an **import** statement in the other module?
 14. Could you alias any kernel function and demonstrate it in code?
 15. What are the two attributes to document modules and functions?
+16. What are the two **falsey** values in Elixir?
+17. Create a tuple with your name and age, and extract you name using Kernel.elem
+18. What are tuples mostly used for?
+20. Here is a list of integer is **list = [1, 2, 3, 4, 5]**, how would Elixir traverse to the last element in this list?
+21. Can you demonstrate that the integer **6** is not in the above list
+22. Use a function to "replace" **5** in the above list with **6**.
+23. Using **insert_at** from the List module insert an element at the end of
+    the list. Why would this be expensive on a large list?
+24. Concatenate two lists of your own choice
+25. Extract the head of a list with a Kernel function and patten matching.
+26. Create a map upto five key/pairs which starts with the key **1** and the value **one**
+27. Extract the third element from the list using any manner
+28. How would you throw an **exception** if a key is not in a map?
+29. Show two ways of extracting the value of a key in a match which is an atom
+30. Define a string with an interpolation with the expression 2 + 2
+31. What's the difference between binary strings and character lists?
+32. What does a function class function mean and could you provide an example?
+33. Can you write a longhand function and its shorthand counterpart using the capture operator
